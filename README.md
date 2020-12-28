@@ -1,4 +1,4 @@
-# 22xx_tek_cap_4pin
+# 4-pin cap adapter for Tektronix 22xx
 An adapter for the 4-pin capacitor for Tektronix 22xx (2230, 2232 etc.) series. 4-pin caps are generally hard to come by these days and it's much easier to replace those with a modern Snap-In type.
 
 ![Bottom view](pictures/bottom_view_3d.png)
