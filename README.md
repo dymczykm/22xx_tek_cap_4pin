@@ -23,3 +23,6 @@ With these parts, the cap with an adapter nicely fits under the HV plastic shiel
 
 This project is loosely based on the existing project for 7xxx scopes:
 https://github.com/peekpt/tekcaps
+
+See also my personal page covering the topic:
+https://dymczyk.com/tektronix-22xx-4-pin-cap-adapter
